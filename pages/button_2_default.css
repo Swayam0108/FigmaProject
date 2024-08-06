@@ -1,0 +1,27 @@
+.button-2-default .get-demo-now {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 700;
+  font-size: 21.6px;
+  color: #FFFFFF;
+}
+.button-2-default .vector {
+  margin: 4.5px 0;
+  width: 11px;
+  height: 18px;
+}
+.button-2-default .frame-5 {
+  box-shadow: 0px 0px 35.4px 0px rgba(19, 110, 222, 0.3);
+  border-radius: 8.6px;
+  background: radial-gradient(59.56% 171.64% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 18px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.button-2-default {
+  box-sizing: border-box;
+}

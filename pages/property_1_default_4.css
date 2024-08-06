@@ -1,0 +1,14 @@
+.property-1-default-4 .target-countries {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.property-1-default {
+  border-radius: 10px;
+  background: #0B6C93;
+  display: flex;
+  padding: 10px 10.3px 10px 10px;
+  box-sizing: border-box;
+}

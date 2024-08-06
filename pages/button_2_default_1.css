@@ -1,0 +1,14 @@
+.button-2-default-1 .full-name {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.button-2-default {
+  border-radius: 10px;
+  background: #0B6C93;
+  display: flex;
+  padding: 21px 0.9px 21px 0;
+  box-sizing: border-box;
+}

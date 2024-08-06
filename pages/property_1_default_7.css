@@ -1,0 +1,14 @@
+.property-1-default-7 .which-industry-you-are-in {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.property-1-default {
+  border-radius: 10px;
+  background: #0B6C93;
+  display: flex;
+  padding: 10px 0.6px 10px 0;
+  box-sizing: border-box;
+}

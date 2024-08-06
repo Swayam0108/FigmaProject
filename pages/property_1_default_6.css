@@ -1,0 +1,13 @@
+.property-1-default-6 .get-now {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 600;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.property-1-default {
+  background: linear-gradient(84.35deg, #31BAC2 98.5%, #299BA2 117.74%, #1D6C71 165.57%, #17585C 207.9%);
+  display: flex;
+  padding: 12.5px 0.7px 12.5px 0;
+  box-sizing: border-box;
+}

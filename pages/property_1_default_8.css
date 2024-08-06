@@ -1,0 +1,228 @@
+.property-1-default-8 .compliance {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #F5BD00;
+}
+.property-1-default-8 .policy-management {
+  opacity: 0.49;
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .deploy-time-app-debuggability {
+  opacity: 0.49;
+  margin-bottom: 40px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .environment-management {
+  opacity: 0.49;
+  margin-bottom: 40.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .git-ops-platform {
+  opacity: 0.49;
+  margin-bottom: 41px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .software-delivery-workflow {
+  opacity: 0.49;
+  margin: 0 5.9px 41px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .operation-insights {
+  opacity: 0.49;
+  margin-bottom: 41px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .cost-management {
+  opacity: 0.49;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-default-8 .frame-3183471 {
+  margin-right: 81.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.property-1-default-8 .rectangle-2042 {
+  border-radius: 13px;
+  position: absolute;
+  top: 13px;
+  right: 8px;
+  width: 305px;
+  height: 79px;
+}
+.property-1-default-8 .rectangle-2045 {
+  border-radius: 13px;
+  background: #4E2DBF content-box, linear-gradient(277.19deg, #4E2DBF 121.1%, #CEBFFF 201.3%) border-box;
+  border: 2px solid transparent;
+  position: absolute;
+  left: 0px;
+  bottom: 6px;
+  width: 306px;
+  height: 70px;
+}
+.property-1-default-8 .fine-grained-access-control-control-who-can-edit-configuration-and-who-can-deploy {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-default-8 .container-4 {
+  border-radius: 13px;
+  background: #4E2DBF content-box, linear-gradient(277.19deg, #4E2DBF 121.1%, #CEBFFF 201.3%) border-box;
+  border: 2px solid transparent;
+  position: relative;
+  margin-bottom: 17px;
+  padding: 5px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default-8 .history-of-all-ci-and-cd-events {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-default-8 .container-1 {
+  border-radius: 13px;
+  background: #4E2DBF content-box, linear-gradient(277.19deg, #4E2DBF 121.1%, #CEBFFF 201.3%) border-box;
+  border: 2px solid transparent;
+  position: relative;
+  display: flex;
+  padding: 17px 31.2px 16px 20px;
+  box-sizing: border-box;
+}
+.property-1-default-8 .container {
+  margin: 0 14px 6px 0;
+  display: flex;
+  flex-direction: column;
+  width: 313px;
+  box-sizing: border-box;
+}
+.property-1-default-8 .audit-log-to-know-who-did-what-and-when {
+  margin: 0 17.9px 34px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-default-8 .kubernetes-events-impacting-application {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-default-8 .container-3 {
+  border-radius: 13px;
+  background: #4E2DBF content-box, linear-gradient(277.19deg, #4E2DBF 121.1%, #CEBFFF 201.3%) border-box;
+  border: 2px solid transparent;
+  position: relative;
+  display: flex;
+  padding: 17px 25.9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default-8 .container-5 {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 313px;
+  box-sizing: border-box;
+}
+.property-1-default-8 .container-6 {
+  margin-bottom: 33px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default-8 .relevant-cloud-events-and-their-impact-on-applications {
+  margin: 0 20px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-default-8 .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.property-1-default-8 .frame-3183472 {
+  position: relative;
+  margin: 7.5px 0 192.5px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.property-1-default {
+  display: flex;
+  flex-direction: row;
+  width: 1097px;
+  box-sizing: border-box;
+}

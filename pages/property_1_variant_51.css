@@ -1,0 +1,174 @@
+.property-1-variant-51 .compliance {
+  opacity: 0.49;
+  margin-bottom: 49.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FAF9F8;
+}
+.property-1-variant-51 .policy-management {
+  opacity: 0.49;
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .deploy-time-app-debuggability {
+  opacity: 0.49;
+  margin-bottom: 40px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .environment-management {
+  opacity: 0.49;
+  margin-bottom: 36.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .git-ops-platform {
+  margin-bottom: 37px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #F4F900;
+}
+.property-1-variant-51 .software-delivery-workflow {
+  opacity: 0.49;
+  margin: 0 5.9px 41px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .operation-insights {
+  opacity: 0.49;
+  margin-bottom: 41px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .cost-management {
+  opacity: 0.49;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .frame-3183471 {
+  margin: 10.5px 82.8px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.property-1-variant-51 .rectangle-2042 {
+  border-radius: 13px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 287px;
+  height: 83px;
+}
+.property-1-variant-51 .enforce-finer-access-control-than-git {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .container {
+  border-radius: 13px;
+  background: #4E2DBF content-box, linear-gradient(277.19deg, #4E2DBF 121.1%, #CEBFFF 201.3%) border-box;
+  border: 2px solid transparent;
+  position: relative;
+  margin-right: 36px;
+  padding: 4.6px 20px 13.4px 20px;
+  width: 313px;
+  box-sizing: border-box;
+}
+.property-1-variant-51 .gitops-backed-by-postgres-for-easier-analysis {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .container-1 {
+  position: relative;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-variant-51 .gitops-exposed-through-api-and-ui-so-that-you-dont-have-to-interact-with-git-cli {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.property-1-variant-51 .container-2 {
+  border-radius: 13px;
+  background: #4E2DBF content-box, linear-gradient(277.19deg, #4E2DBF 121.1%, #CEBFFF 201.3%) border-box;
+  border: 2px solid transparent;
+  position: relative;
+  align-self: flex-start;
+  padding: 4px 20px 3px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-variant-51 .frame-3183472 {
+  position: relative;
+  margin-bottom: 310.5px;
+  display: flex;
+  flex-direction: column;
+  padding: 11px 33.6px 0 0;
+  width: 667px;
+  box-sizing: border-box;
+}
+.property-1-variant-5 {
+  display: flex;
+  flex-direction: row;
+  width: 1097px;
+  box-sizing: border-box;
+}

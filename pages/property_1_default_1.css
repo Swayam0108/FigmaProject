@@ -1,0 +1,14 @@
+.property-1-default-1 .free-demo {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 700;
+  font-size: 21.6px;
+  color: #030202;
+}
+.property-1-default {
+  border-radius: 50px;
+  background: linear-gradient(87.75deg, #FFCA1D 96.8%, #E8B71A 105.74%, #D9AC19 115.58%, #CCA217 135.39%, #D3AF38 149.64%, #DBBD5B 164.63%, #E1C876 177.44%, #FFFFFF 216.4%);
+  display: flex;
+  padding: 15.5px 2.7px 15.5px 0;
+  box-sizing: border-box;
+}

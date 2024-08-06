@@ -1,0 +1,24 @@
+<svg width="456" height="388" viewBox="0 0 456 388" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.22">
+<rect  x="114.271" y="47.135" width="146.78" height="146.78" transform="rotate(60 114.271 47.135)" fill="url(#pf_0_38_1080)"/>
+<rect  x="114.273" y="119.701" width="146.78" height="146.78" transform="rotate(60 114.273 119.701)" fill="url(#pf_0_38_1081)"/>
+<rect  x="189.875" y="119.701" width="146.78" height="146.78" transform="rotate(-60 189.875 119.701)" fill="url(#pf_0_38_1082)"/>
+<rect  x="98.093" y="4.156" width="187.99" height="187.99" transform="rotate(60 98.093 4.156)" stroke="#FFFFFF" stroke-opacity="0.68" stroke-width="3" stroke-miterlimit="3.999327"/>
+<rect  x="98.093" y="98.964" width="187.99" height="187.99" transform="rotate(60 98.093 98.964)" stroke="#FFFFFF" stroke-opacity="0.68" stroke-width="3" stroke-miterlimit="3.999327"/>
+<rect  x="193.934" y="98.964" width="187.99" height="187.99" transform="rotate(-60 193.934 98.964)" stroke="#FFFFFF" stroke-opacity="0.68" stroke-width="3" stroke-miterlimit="3.999327"/>
+</g>
+<defs>
+<linearGradient id="pf_0_38_1080" x1="241.386" y1="47.135" x2="241.386" y2="193.915" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4E2DBF"/>
+<stop offset="1" stop-color="#CEBFFF"/>
+</linearGradient>
+<linearGradient id="pf_0_38_1081" x1="177.83" y1="156.396" x2="177.83" y2="303.176" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4E2DBF"/>
+<stop offset="1" stop-color="#CEBFFF"/>
+</linearGradient>
+<linearGradient id="pf_0_38_1082" x1="253.433" y1="156.396" x2="253.433" y2="303.176" gradientUnits="userSpaceOnUse">
+<stop stop-color="#684BCC"/>
+<stop offset="1" stop-color="#CEBFFF"/>
+</linearGradient>
+</defs>
+</svg>
